@@ -30,8 +30,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gms5560)](https://solved.ac/gms5560/)  
 
 
-![Mingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdrn79&count_private=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&count_private=true&token=${{ secrets.TOKEN }})
 
 
 
