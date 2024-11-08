@@ -1,6 +1,6 @@
 ### Hi Welcome, i'm Mingu Kang 👋 
 
-[CV](https://github.com/rkdrn79/rkdrn79/blob/main/MinguKang_CV%20(6).pdf)  
+[CV](https://github.com/rkdrn79/rkdrn79/blob/main/MinguKang_CV%20(7).pdf)  
 
 #### AI Researcher
 
