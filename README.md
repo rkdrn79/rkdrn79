@@ -1,6 +1,6 @@
 ### Hi Welcome, i'm Mingu Kang 👋 
 
-[CV](Mingu_Kang_CV(3).pdf)  
+[CV](Mingu_Kang_CV_20251.pdf)  
 
 #### AI Researcher
 
